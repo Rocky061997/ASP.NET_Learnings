@@ -9,8 +9,7 @@ obj/
 
 # VSCode settings
 .vscode/
-vs/
-
+.vs/
 # Rider settings
 .idea/
 
