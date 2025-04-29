@@ -1,0 +1,42 @@
+# Ignore build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
+
+# VSCode settings
+.vscode/
+vs/
+
+# Rider settings
+.idea/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# EF Core
+Migrations/*.Designer.cs
+Migrations/*ModelSnapshot.cs
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Others
+*.swp
+*.db
+*.db-shm
+*.db-wal
